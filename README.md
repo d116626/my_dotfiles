@@ -1,1 +1,8 @@
-# my_dotfiles
+# dotfiles
+
+## zsh
+## antigen
+
+## tmux
+
+## vi
