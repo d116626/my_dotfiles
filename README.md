@@ -3,6 +3,6 @@
 ## zsh
 ## antigen
 
-## tmux
+## [tmux](https://github.com/gpakosz/.tmux) 
 
 ## vi
